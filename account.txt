@@ -1,0 +1,2 @@
+{"email":"bb.com.watch.v4@gmail.com","password":"123","fullName":"a"}
+{"email":"duc13147@gmail.com","password":"0123456789","fullName":"duc"}
